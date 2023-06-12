@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurabhgbits
 - 👀 I’m interested in building softwares for mass use
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on automation/arobotics
+- 💞️ I’m looking to collaborate on automation/robotics
 - 📫 How to reach me linkedin profile/ saurabhg.bits@gmail.com
 
 <!---
